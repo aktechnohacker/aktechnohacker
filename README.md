@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aktechnohacker" target="blank"><img src="https://img.shields.io/twitter/follow/aktechnohacker?logo=twitter&style=for-the-badge" alt="aktechnohacker" /></a> </p>
 
-- 📫 How to reach me **askhar@pm.me**
+- 📫 How to reach me **askhare@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
