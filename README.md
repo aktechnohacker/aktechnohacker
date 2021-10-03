@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/aktechnohacker" target="blank"><img src="https://img.shields.io/twitter/follow/aktechnohacker?logo=twitter&style=for-the-badge" alt="aktechnohacker" /></a> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif"
+<img align="right" alt="coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
 - 📫 How to reach me **askhare@pm.me**
 
