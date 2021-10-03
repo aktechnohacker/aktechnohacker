@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/aktechnohacker" target="blank"><img src="https://img.shields.io/twitter/follow/aktechnohacker?logo=twitter&style=for-the-badge" alt="aktechnohacker" /></a> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sogeti.com%2Fglobalassets%2Fglobal%2Fcontent-images%2Fexplore%2Fblog%2F2020-predictions%2F00086---desk-anim---v0.3.gif&imgrefurl=https%3A%2F%2Fwww.sogeti.com%2Fexplore%2Fblog%2F6-cybersecurity-predictions-for-2020%2F&tbnid=w1v-WVC_dp4aIM&vet=10CH4QMyiZAWoXChMIoN2Rsuut8wIVAAAAAB0AAAAAEAI..i&docid=-tkmqPm5_vPaOM&w=1947&h=800&q=animated%20cybersecurity%20design&hl=en&ved=0CH4QMyiZAWoXChMIoN2Rsuut8wIVAAAAAB0AAAAAEAI"
+<img align="right" alt="coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif"
 
 - 📫 How to reach me **askhare@pm.me**
 
