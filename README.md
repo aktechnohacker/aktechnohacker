@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Ashish Khare</h1>
 <h3 align="center">A passionate Security Researcher, Red Teamer, WIFI-Security Expert, Network Security, Penetration Tester, Cyber Gladiator.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aktechnohacker&label=Profile%20views&color=0e75b6&style=flat" alt="aktechnohacker" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aktechnohacker" target="blank"><img src="https://img.shields.io/twitter/follow/aktechnohacker?logo=twitter&style=for-the-badge" alt="aktechnohacker" /></a> </p>
 
