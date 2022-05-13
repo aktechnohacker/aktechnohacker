@@ -1,4 +1,9 @@
-<h1 align="center">Hello World 👋, I'm Ashish Khare</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Ashish+Khare+!">
+  </a>
+  
 <h3 align="center">A passionate Security Researcher, Red Teamer, WIFI-Security Expert, Network Security, Penetration Tester, Cyber Gladiator.</h3>
 
 
