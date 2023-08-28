@@ -22,6 +22,9 @@
 <a href="https://fb.com/aktechnohack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aktechnohack" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish.khare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish.khare_" height="30" width="40" /></a>
 <a href="https://medium.com/@aktechnohacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aktechnohacker" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Aktechnohacker" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="" height="27" width="28" /></a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
